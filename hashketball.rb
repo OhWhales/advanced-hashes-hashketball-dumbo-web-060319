@@ -229,7 +229,7 @@ def player_stats(name)
   h.each do |k1,v1|
     v1.each do |k2,v2|
       v2.each do |k3,v3|
-        
+        puts k3
       end 
     end 
   end 
