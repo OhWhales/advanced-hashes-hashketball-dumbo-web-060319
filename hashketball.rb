@@ -231,7 +231,9 @@ def player_stats(name)
       
       if k2 == :players 
         v2.each do |k3,v3|
-          puts k3
+          if k3 == name 
+            
+          end 
         end 
       end 
     end 
