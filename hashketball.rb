@@ -261,5 +261,5 @@ def big_shoe_rebounds
     end 
   end 
   answer = arr.max
-  
+  puts answer
 end 
