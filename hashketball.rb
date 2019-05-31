@@ -226,5 +226,7 @@ def player_stats(name)
   
   h=game_hash
   
-  
+  h.each do |k1,v1|
+    
+  end 
 end 
