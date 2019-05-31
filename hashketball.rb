@@ -263,6 +263,8 @@ def big_shoe_rebounds
   answer = arr.max
   
   h.each do |k1,v1|
-    v1.each do 
+    v1.each do |k2,v2|
+      
+    end 
   end 
 end 
