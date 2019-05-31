@@ -260,6 +260,6 @@ def big_shoe_rebounds
       end
     end 
   end 
-  puts arr
+  answer = arr.max
   
 end 
