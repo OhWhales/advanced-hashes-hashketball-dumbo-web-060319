@@ -224,5 +224,7 @@ end
 
 def player_stats(name)
   
+  h=game_hash
+  
   
 end 
