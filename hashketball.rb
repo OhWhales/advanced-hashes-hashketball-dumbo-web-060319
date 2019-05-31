@@ -221,3 +221,5 @@ def player_numbers(name)
   end 
   return arr
 end 
+
+def player_stats(name)
