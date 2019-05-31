@@ -251,7 +251,7 @@ def big_shoe_rebounds
     v1.each do |k2,v2|
       if k2 == :players 
         v2.each do |k3,v3|
-          
+          puts k3
         end 
       end
     end 
