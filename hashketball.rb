@@ -243,6 +243,9 @@ end
 
 def big_shoe_rebounds
   
+  arr=[]
+  
+  h=game_hash
   
   
 end 
