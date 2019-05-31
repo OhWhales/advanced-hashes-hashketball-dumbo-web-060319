@@ -269,7 +269,7 @@ def big_shoe_rebounds
           v3.each do |k4,v4|
             if k4 == :shoe 
               if v4 == answer 
-                puts h[k1][k2][k3][:rebounds]
+                return h[k1][k2][k3][:rebounds]
               end 
             end
           end 
