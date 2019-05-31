@@ -253,7 +253,7 @@ def big_shoe_rebounds
         v2.each do |k3,v3|
           v3.each do |k4,v4|
             if k4 == :shoe 
-              
+              arr.push(v4)
             end
           end 
         end 
