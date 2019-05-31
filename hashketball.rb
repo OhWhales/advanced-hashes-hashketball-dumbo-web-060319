@@ -248,7 +248,9 @@ def big_shoe_rebounds
   h=game_hash
   
   h.each do |k1,v1|
-    
+    v1.each do |k2,v2|
+      
+    end 
   end 
   
 end 
