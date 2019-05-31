@@ -230,7 +230,9 @@ def player_stats(name)
     v1.each do |k2,v2|
       
       if k2 == :players 
-        
+        v2.each do |k3,v3|
+          
+        end 
       end 
     end 
   end 
